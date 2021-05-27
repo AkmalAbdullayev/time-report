@@ -1,0 +1,185 @@
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+[2021-04-20 11:21:43][8] Processing: App\Jobs\Device\AddUser
+[2021-04-20 11:21:43][8] Processed:  App\Jobs\Device\AddUser
+[2021-04-20 11:23:49][9] Processing: App\Jobs\Device\DeleteUser
+[2021-04-20 11:23:51][9] Processed:  App\Jobs\Device\DeleteUser
+[2021-04-20 11:41:25][10] Processing: App\Jobs\Device\AddUser
+[2021-04-20 11:41:30][10] Processed:  App\Jobs\Device\AddUser
+[2021-04-21 07:16:40][11] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 07:16:40][11] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 07:23:05][12] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 07:23:05][12] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 07:29:50][13] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 07:29:50][13] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 07:30:59][14] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 07:30:59][14] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 07:33:38][15] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 07:33:38][15] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 07:34:17][16] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 07:34:17][16] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 07:36:02][17] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 07:36:02][17] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 07:38:27][18] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 07:38:27][18] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 07:44:15][19] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 07:44:15][19] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 07:47:45][20] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 07:47:45][20] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 08:13:15][21] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 08:13:15][21] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 08:15:51][22] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 08:15:51][22] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 08:17:41][23] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 08:17:41][23] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 08:19:41][24] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 08:19:41][24] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 08:21:59][25] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 08:21:59][25] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 08:24:52][26] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 08:24:52][26] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 08:25:51][27] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 08:25:57][27] Processed:  App\Jobs\Device\UpdateUser
+[2021-04-21 08:26:15][28] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 08:26:15][28] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 08:27:25][29] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 08:27:25][29] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-21 08:27:42][30] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 08:27:48][30] Processed:  App\Jobs\Device\UpdateUser
+[2021-04-21 08:28:45][31] Processing: App\Jobs\Device\UpdateUser
+[2021-04-21 08:28:45][31] Failed:     App\Jobs\Device\UpdateUser
+[2021-04-23 04:45:58][32] Processing: App\Jobs\Device\AddUser
+[2021-04-23 04:46:07][32] Processed:  App\Jobs\Device\AddUser
+[2021-04-24 09:33:12][33] Processing: App\Jobs\Device\AddUser
+[2021-04-24 09:33:21][33] Processed:  App\Jobs\Device\AddUser
+[2021-04-27 06:31:36][34] Processing: App\Jobs\Device\AddUser
+[2021-04-27 06:31:44][34] Processed:  App\Jobs\Device\AddUser
+[2021-04-27 09:12:16][35] Processing: App\Jobs\Device\DeleteUser
+[2021-04-27 09:12:25][35] Processed:  App\Jobs\Device\DeleteUser
+[2021-04-27 09:14:26][36] Processing: App\Jobs\Device\DeleteUser
+[2021-04-27 09:14:35][36] Processed:  App\Jobs\Device\DeleteUser
+[2021-04-27 09:19:16][37] Processing: App\Jobs\Device\DeleteUser
+[2021-04-27 09:19:25][37] Processed:  App\Jobs\Device\DeleteUser
+[2021-04-27 09:35:39][38] Processing: App\Jobs\Device\DeleteUser
+[2021-04-27 09:35:48][38] Processed:  App\Jobs\Device\DeleteUser
+[2021-04-27 09:36:20][39] Processing: App\Jobs\Device\DeleteUser
+[2021-04-27 09:36:28][39] Processed:  App\Jobs\Device\DeleteUser
+[2021-04-27 09:38:43][40] Processing: App\Jobs\Device\DeleteUser
+[2021-04-27 09:38:51][40] Processed:  App\Jobs\Device\DeleteUser
+[2021-04-27 09:40:09][41] Processing: App\Jobs\Device\DeleteUser
+[2021-04-27 09:40:19][41] Processed:  App\Jobs\Device\DeleteUser
+[2021-04-27 09:42:00][42] Processing: App\Jobs\Device\DeleteUser
+[2021-04-27 09:42:09][42] Processed:  App\Jobs\Device\DeleteUser
+[2021-04-27 09:54:32][43] Processing: App\Jobs\Device\DeleteUser
+[2021-04-27 09:54:45][43] Processed:  App\Jobs\Device\DeleteUser
+[2021-04-28 11:52:18][44] Processing: App\Jobs\Device\AddUser
+[2021-04-28 11:52:28][44] Processed:  App\Jobs\Device\AddUser
+[2021-04-28 12:09:22][45] Processing: App\Jobs\Device\AddUser
+[2021-04-28 12:09:31][45] Processed:  App\Jobs\Device\AddUser
+[2021-04-28 12:14:49][46] Processing: App\Jobs\Device\AddUser
+[2021-04-28 12:14:58][46] Processed:  App\Jobs\Device\AddUser
+[2021-04-28 12:25:04][47] Processing: App\Jobs\Device\AddUser
+[2021-04-28 12:25:12][47] Processed:  App\Jobs\Device\AddUser
+[2021-04-29 07:16:13][48] Processing: App\Jobs\Device\DeleteUser
+[2021-04-29 07:16:24][48] Processed:  App\Jobs\Device\DeleteUser
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+[2021-05-06 06:44:26][54] Processing: App\Jobs\Device\AddUser
+[2021-05-06 06:44:31][54] Processed:  App\Jobs\Device\AddUser
+[2021-05-06 06:44:31][55] Processing: App\Jobs\Device\AddUser
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+[2021-05-06 06:44:34][56] Processing: App\Jobs\Device\UpdateUser
+[2021-05-06 06:44:34][57] Processing: App\Jobs\Device\AddUser
+[2021-05-06 06:44:34][58] Processing: App\Jobs\Device\AddUser
+[2021-05-06 06:44:36][55] Processed:  App\Jobs\Device\AddUser
+[2021-05-06 06:44:36][59] Processing: App\Jobs\Device\DeleteUser
+[2021-05-06 06:44:39][57] Processed:  App\Jobs\Device\AddUser
+[2021-05-06 06:44:40][56] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-06 06:44:40][58] Processed:  App\Jobs\Device\AddUser
+[2021-05-06 06:44:42][59] Processed:  App\Jobs\Device\DeleteUser
+[2021-05-06 08:27:27][60] Processing: App\Jobs\Device\AddUser
+[2021-05-06 08:27:32][60] Processed:  App\Jobs\Device\AddUser
+[2021-05-06 08:43:36][61] Processing: App\Jobs\Device\AddUser
+[2021-05-06 08:43:42][61] Processed:  App\Jobs\Device\AddUser
+[2021-05-06 08:52:25][62] Processing: App\Jobs\Device\AddUser
+[2021-05-06 08:52:30][62] Processed:  App\Jobs\Device\AddUser
+[2021-05-06 10:16:55][63] Processing: App\Jobs\Device\AddUser
+[2021-05-06 10:17:00][63] Processed:  App\Jobs\Device\AddUser
+[2021-05-07 04:32:46][64] Processing: App\Jobs\Device\AddUser
+[2021-05-07 04:32:52][64] Processed:  App\Jobs\Device\AddUser
+[2021-05-07 06:17:22][65] Processing: App\Jobs\Device\AddUser
+[2021-05-07 06:17:27][65] Processed:  App\Jobs\Device\AddUser
+[2021-05-07 07:04:34][66] Processing: App\Jobs\Device\AddUser
+[2021-05-07 07:04:39][66] Processed:  App\Jobs\Device\AddUser
+[2021-05-10 04:27:16][67] Processing: App\Jobs\Device\AddUser
+[2021-05-10 04:27:18][67] Processed:  App\Jobs\Device\AddUser
+[2021-05-10 06:22:14][68] Processing: App\Jobs\Device\DeleteUser
+[2021-05-10 06:22:19][68] Processed:  App\Jobs\Device\DeleteUser
+[2021-05-10 06:24:55][69] Processing: App\Jobs\Device\AddUser
+[2021-05-10 06:24:56][69] Processed:  App\Jobs\Device\AddUser
+[2021-05-11 04:07:53][70] Processing: App\Jobs\Device\DeleteUser
+[2021-05-11 04:07:58][70] Processed:  App\Jobs\Device\DeleteUser
+[2021-05-11 07:19:12][71] Processing: App\Jobs\Device\AddUser
+[2021-05-11 07:19:14][71] Processed:  App\Jobs\Device\AddUser
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+[2021-05-19 09:17:06][74] Processing: App\Jobs\Device\AddUser
+[2021-05-19 09:17:11][74] Processed:  App\Jobs\Device\AddUser
+[2021-05-19 09:19:47][75] Processing: App\Jobs\Device\UpdateUser
+[2021-05-19 09:19:53][75] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-19 10:07:14][76] Processing: App\Jobs\Device\AddUser
+[2021-05-19 10:07:19][76] Processed:  App\Jobs\Device\AddUser
+[2021-05-19 10:28:14][77] Processing: App\Jobs\Device\AddUser
+[2021-05-19 10:28:19][77] Processed:  App\Jobs\Device\AddUser
+[2021-05-22 04:41:49][78] Processing: App\Jobs\Device\UpdateUser
+[2021-05-22 04:41:57][78] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-22 05:10:29][79] Processing: App\Jobs\Device\UpdateUser
+[2021-05-22 05:10:35][79] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-22 05:16:23][80] Processing: App\Jobs\Device\UpdateUser
+[2021-05-22 05:16:30][80] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-22 05:36:28][81] Processing: App\Jobs\Device\UpdateUser
+[2021-05-22 05:36:34][81] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-24 10:44:17][82] Processing: App\Jobs\Device\AddUser
+[2021-05-24 10:44:23][82] Processed:  App\Jobs\Device\AddUser
+[2021-05-24 11:29:58][83] Processing: App\Jobs\Device\UpdateUser
+[2021-05-24 11:30:03][83] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-24 11:30:21][84] Processing: App\Jobs\Device\UpdateUser
+[2021-05-24 11:30:26][84] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-24 11:32:29][85] Processing: App\Jobs\Device\AddUser
+[2021-05-24 11:32:35][85] Processed:  App\Jobs\Device\AddUser
+[2021-05-26 09:25:22][86] Processing: App\Jobs\Device\AddUser
+[2021-05-26 09:25:25][86] Processed:  App\Jobs\Device\AddUser
+[2021-05-27 06:24:56][87] Processing: App\Jobs\Device\UpdateUser
+[2021-05-27 06:24:59][87] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-27 07:08:55][88] Processing: App\Jobs\Device\UpdateUser
+[2021-05-27 07:08:57][88] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-27 07:09:24][89] Processing: App\Jobs\Device\UpdateUser
+[2021-05-27 07:09:26][89] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-27 07:09:32][90] Processing: App\Jobs\Device\UpdateUser
+[2021-05-27 07:09:36][90] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-27 07:12:03][91] Processing: App\Jobs\Device\UpdateUser
+[2021-05-27 07:12:07][91] Processed:  App\Jobs\Device\UpdateUser
+[2021-05-27 07:36:51][92] Processing: App\Jobs\Device\UpdateUser
+[2021-05-27 07:36:53][92] Processed:  App\Jobs\Device\UpdateUser

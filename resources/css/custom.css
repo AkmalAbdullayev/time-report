@@ -1,0 +1,15 @@
+.permissionModal {
+    animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes example {
+    0% {
+        background-color: #fc6262;
+    }
+    100% {
+        background-color: white;
+    }
+}
